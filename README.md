@@ -11,7 +11,7 @@
 
 ## 🖼️ Preview
 
-![preview](https://wqwrtolojbmjvfxevbtj.supabase.co/storage/v1/object/public/picsofprojects//dc.png)
+![preview](https://raw.githubusercontent.com/seibel777/DashboardClima/d205a44ce214068b5d220c428e6fad1d53ea0e8a/print.png)
 
 > *Busque uma cidade e visualize as condições climáticas atuais de forma clara, rápida e responsiva.*
 
